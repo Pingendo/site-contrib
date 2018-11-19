@@ -1,5 +1,6 @@
 
 
+/pingendocontrib/*  /pingendocontrib/index.html 200
 
 /pingendocontrib/runtime.js https://hardcore-austin-29a861.netlify.com/runtime.js 200
 /pingendocontrib/polyfills.js https://hardcore-austin-29a861.netlify.com/polyfills.js 200
