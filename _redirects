@@ -1,9 +1,1 @@
-
-
-
-/pingendocontrib/runtime.js https://hardcore-austin-29a861.netlify.com/runtime.js 200
-/pingendocontrib/polyfills.js https://hardcore-austin-29a861.netlify.com/polyfills.js 200
-/pingendocontrib/scripts.js https://hardcore-austin-29a861.netlify.com/scripts.js 200
-/pingendocontrib/main.js https://hardcore-austin-29a861.netlify.com/main.js 200
-
-
+/pingendocontrib/*  https://hardcore-austin-29a861.netlify.com/contrib.html 200
